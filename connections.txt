@@ -1,0 +1,14 @@
+13
+Astad Lstad 12
+Kstad Astad 7
+Hstad Kstad 7
+Sstad Kstad 4
+Jstad Vstad 2
+Hstad Vstad 3
+Sstad Vstad 3
+Hstad Sstad 2
+Lstad Hstad 2
+Kstad Vstad 1
+Hstad Jstad 6
+Kstad Jstad 4
+Jstad Astad 2
